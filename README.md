@@ -11,6 +11,8 @@ Instagram: https://www.instagram.com/indiacardano/
 In this upskilling program we have successfully added almost 25 experienced personnel, various IT experience in different technology into our Community.
 The details regarding the enrolled members can be find in the below link
 
+https://github.com/CardanoIndiaDevelopersCommunity/Program-Details
+
 After the initial promotions we started our sessions with the developpers on 15th Nov. 2022.
 In this upskilling program, we do follow IOHK course patterns.
 Every week there are two sessions where we are connecting with the members for 1 hr-1.30 hr, to guide and problem-solving.
