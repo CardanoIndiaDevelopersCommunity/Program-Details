@@ -26,4 +26,8 @@ Github repo: https://github.com/CardanoIndiaDevelopersCommunity/
 
 Upskill Program Youtube Handle: https://www.youtube.com/@cardanoindia
 
-Discord: https://discord.gg/qg6BkWfz
+Discord: https://discord.gg/CjvnXGYh
+
+Website: https://www.cardanoindia.org/
+
+Emial id: cardanoindia@gmail.com
