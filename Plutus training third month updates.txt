@@ -1,0 +1,29 @@
+In the third month of our program(15th Jan to 15th Feb), we successfully covered the below topics of Plutus.
+
+1. Introduction to Cardano Plutus
+2. Basic of Plutus
+3. On-chain & Off-chain in Plutus
+4. The EUTxO-Model
+5. Auction Contract in the EUTxO-Model
+6. Auction Contract on the Playground
+7. Nix Installation
+8. Introduction to Cardano Wallet
+9. Cardano CLI
+
+All our sessions have been recorded for future reference and shared in our YouTube handler.
+For the above chapters, we have discussed more than 40 programs and homework which have been uploaded to GitHub week-wise.
+
+Next session onwards we are planning to start the core of Plutus as part of the next topic of our program.
+
+We are continuously sharing content to bring awareness among more developers about Cardano with the help of social networks like LinkedIn, Facebook, Twitter, and Instagram.
+Linkedin: https://www.linkedin.com/in/cardano-india-developers-community-764800252
+Facebook: https://www.facebook.com/profile.php?id=100086149197444
+Twitter: https://twitter.com/CardanoIndia
+Instagram: https://www.instagram.com/indiacardano/
+
+We are using GitHub, Discord, and Youtube platform to share the technical solution with our participants.
+Github repo: https://github.com/CardanoIndiaDevelopersCommunity/
+Upskill Program Youtube Handle: https://www.youtube.com/@cardanoindia
+Discord: https://discord.gg/CjvnXGYh
+Website: https://www.cardanoindia.org/
+Emial id: cardanoindia@gmail.com
